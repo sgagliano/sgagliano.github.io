@@ -12,5 +12,5 @@ stay tuned
 ### Research topic 3 
 stay tuned
 
-### Publication ###
-Please see [google scholar](https://scholar.google.com/citations?user=2cd0NZoAAAAJ&hl=en)
+### Publications ###
+Please see [Google Scholar](https://scholar.google.com/citations?user=2cd0NZoAAAAJ&hl=en)
