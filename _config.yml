@@ -15,8 +15,8 @@ url:              https://sgagliano.github.io
 baseurl:          /
 
 author:
-  name:           'Yanxiao Zhang'
-  url:            https://twitter.com/zhangyx.shawn
+  name:           ''
+  url:            
 
 paginate:         5
 
@@ -24,4 +24,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/sgagliano/shawnzhangyx.github.io
+  repo:           https://github.com/sgagliano/sgagliano.github.io
