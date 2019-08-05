@@ -3,7 +3,7 @@ layout: page
 title: Research 
 ---
 
-### Reserach topic 1
+### Research topic 1
 stay tuned
 
 ### Research topic 2
