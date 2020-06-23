@@ -12,7 +12,7 @@ title:            Sarah A Gagliano Taliun
 tagline:          'PhD'
 description:      'PhD'
 url:              https://sgagliano.github.io
-baseurl:          /
+baseurl:          
 
 author:
   name:           ''
