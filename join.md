@@ -24,10 +24,10 @@ Montreal Heart Institute
 <p>The newly formed group of Dr. Gagliano Taliun uses state-of-the-art computational and bioinformatics approaches, including machine-learning techniques, to understand the genetic factors contributing to complex traits and common diseases in humans, specifically cardiovascular or neurological diseases. The official language of the Université de Montréal is French, but the lab operates in English.</p> 
 
 <b>Requested profile</b>
-•	Ambitious and highly motivated\ 
-•	University degree in genetics, biology, biochemistry, bioinformatics or computer science\ 
-•	Strong background and interest in genetics\
-•	Excellent oral and written communication skills\
+<p>•	Ambitious and highly motivated</p> 
+<p>•	University degree in genetics, biology, biochemistry, bioinformatics or computer science</p> 
+<p>•	Strong background and interest in genetics</p>
+<p>•	Excellent oral and written communication skills</p>
 
 <b>How to apply</b> 
 <p>Interested candidates are invited to submit their application before December 31, 2020 by e‐mail to sarah.gagliano@icm-mhi.org including:</p> 
