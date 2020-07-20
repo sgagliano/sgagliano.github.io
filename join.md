@@ -34,7 +34,7 @@ Montreal Heart Institute
 <p>•	Excellent oral and written communication skills</p>
 
 <b>How to apply</b> 
-<p>Interested candidates are invited to submit their application before December 31, 2020 by e‐mail to sarah.gagliano@icm-mhi.org including:</p> 
+<p>Interested candidates are invited to submit their application before December 31, 2020 by e‐mail to sarah <i>dot</i> gagliano <i>at</i> icm-mhi <i>dot</i> org including:</p> 
 <p>•	CV</p>
 <p>•	Cover letter</p>
 <p>•	Transcripts</p>
@@ -64,7 +64,7 @@ Institut de Cardiologie de Montréal
 <p>•	Excellentes aptitudes à la communication orale et écrite</p> 
 
 <b>Comment s'inscrire</b> 
-<p>Les candidats intéressés sont invités à soumettre leur demande avant le 31 décembre 2020 par courrier électronique à l'adresse suivante sarah.gagliano@icm-mhi.org y compris:</p> 
+<p>Les candidats intéressés sont invités à soumettre leur demande avant le 31 décembre 2020 par courrier électronique à l'adresse suivante sarah <i>dot</i> gagliano <i>at</i> icm-mhi <i>dot</i> org y compris:</p> 
 <p>•	CV</p>
 <p>•	Lettre de motivation</p> 
 <p>•	Relevé de notes</p>
