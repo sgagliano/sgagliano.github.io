@@ -11,6 +11,10 @@ UdeM is a French-speaking University, but our lab operates in English.
 
 Send inquiries to sarah <i>dot</i> gagliano <i>at</i> icm-mhi <i>dot</i> org
 
+
+
+<i>Le français suit.</i>
+
 ### The development of predictive models for personalized medicine in cardiovascular and neurological health – M.Sc./Ph.D/PostDoc 
 
 Montreal Heart Institute 
@@ -51,7 +55,7 @@ Institut de Cardiologie de Montréal
 <b>Date de début</b>:  Immédiate 
 
 <b>Description du projet</b> 
-<p>Le nouveau groupe de la Dre. Gagliano Taliun utilise des approches computationnelles et bio-informatiques à la fine pointe de la technologie, y compris des modèles d’apprentissage machine, pour comprendre des facteurs génétiques qui contribuent aux traits complexes et des maladies courantes chez les humains, nottament les maladies cardiovasculaires ou neurologiques. Le français est la langue officielle de l’Université de Montréal, mais notre the groupe anglais.</p> 
+<p>Le nouveau groupe de la Dre. Gagliano Taliun utilise des approches computationnelles et bio-informatiques à la fine pointe de la technologie, y compris des modèles d’apprentissage machine, pour comprendre des facteurs génétiques qui contribuent aux traits complexes et des maladies courantes chez les humains, nottament les maladies cardiovasculaires ou neurologiques. Le français est la langue officielle de l’Université de Montréal, mais notre groupe utilise l'anglais.</p> 
 
 <b>Profil demandé</b> 
 <p>•	Ambitieux et très motivé</p> 
