@@ -11,7 +11,7 @@ UdeM is a French-speaking University, but our lab operates in English.
 
 Send inquiries to sarah <i>dot</i> gagliano <i>at</i> icm-mhi <i>dot</i> org
 
-
+- - - - - 
 
 <i>Le français suit.</i>
 
