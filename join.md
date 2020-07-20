@@ -70,7 +70,7 @@ Institut de Cardiologie de Montréal
 <p>•	Relevé de notes</p>
 <p>•	Noms de 2 références</p> 
 
-<b>Informations sur le laboratoire et les publications</b> sgagliano.github.io/
+<b>Informations sur le laboratoire et les publications</b> sgagliano.github.io
 
 <b>À propos du Centre de recherche</b> 
 <p>Affilié à l'Université de Montréal, l’ICM est avant-gardiste dans la médecine cardiovasculaire au Québec. L’institut est reconnu au Canada et à travers le monde pour son expertise dans la médecine cardiovasculaire de pointe. Concrètement, le Centre de recherche représente plus de 350 articles scientifiques publiés chaque année avec plus de 80 chercheurs fondamentaux et cliniciens, dont plus de 48 sont chercheurs à temps plein. En plus de son infrastructure de recherche technologique de pointe, l’institut comprend le Centre de Coordination des Essais Cliniques de Montréal qui travaille avec 2 500 sites cliniques dans 20 pays sur 4 continents, une Biobanque contenant des échantillons d'une cohorte de plus de 20 000 patients (objectif de 30 000 patients) entièrement phénotypés, un budget annuel de plus de 50 millions de dollars et un leadership inégalé de sorte qu’il constitue un point central pour la coordination de la recherche nationale et internationale.</p> 
