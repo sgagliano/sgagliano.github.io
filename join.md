@@ -50,7 +50,7 @@ Montreal Heart Institute
 Institut de Cardiologie de Montréal
 
 <b>Chercheuse principale</b>: Sarah A Gagliano Taliun, PhD
-<p>Professeure adjointe, Département de médecine et Département de neurosciences - Université de Montréal</p> 
+<p>Professeure sous octroi adjointe, Département de médecine et Département de neurosciences - Université de Montréal</p> 
 
 <b>Date de début</b>:  Immédiate 
 
