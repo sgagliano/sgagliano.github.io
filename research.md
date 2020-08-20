@@ -11,4 +11,4 @@ My newly-formed lab's research interests are to:
 
 <hr>
 ### Publications ###
-Please see [Google Scholar](https://scholar.google.com/citations?user=j8Dg6zwAAAAJ&hl=en&oi=ao)
+Please see [Google Scholar](https://scholar.google.com/citations?user=2cd0NZoAAAAJ&hl=en&oi=ao)
