@@ -17,3 +17,5 @@ For more details, please refer to my <a href="{{site.baseurl}}/public/GaglianoTa
 In addition to <a href="{{site.url}}/research"> research</a> and teaching, I like to make time for my other passion: passing on information through writing. I enjoy writing about scientific and non-scientific topics.
 
 Gagliano Taliun, S.A. <a href="https://rdcu.be/bTC7V">Teaching at the university level is not a hassle.</a> _Nature_ 574, 285 (2019). PMID: 31591538
+
+Gagliano Taliun, S.A. <a href="https://academicmatters.ca/how-to-navigate-academia-as-a-female-who-is-the-first-in-her-family-with-a-phd/">How to navigate academia as a female who is the first in her family with a PhD.</a> _Academic Matters_ 27 Aug 2020.
