@@ -14,15 +14,15 @@ Send inquiries to sarah <i>dot</i> gagliano <i>at</i> icm-mhi <i>dot</i> org
 
 
 ### Current Members
-#### Principal investigator
+#### Principal investigator:
 Sarah A Gagliano Taliun, PhD
 
-#### Postdoctoral research fellows 
+#### Postdoctoral research fellows: 
 
-#### PhD students
+#### PhD students:
 
-#### Masters students
+#### Masters students:
 
-#### Short-term research students
+#### Short-term research students:
 
 ### Past Members 
