@@ -11,12 +11,15 @@ UdeM is a French-speaking University, but our lab operates in English. Knowledge
 
 Send inquiries to sarah <i>dot</i> gagliano <i>at</i> icm-mhi <i>dot</i> org
 
+#### Principal investigator
+Sarah A Gagliano Taliun, PhD
+
 ### Current Members
-#### Postdoctoral research fellows
+#### Postdoctoral research fellows 
 
 #### PhD students
 
-#### Master's students
+#### Masters students
 
 #### Short-term research students
 
