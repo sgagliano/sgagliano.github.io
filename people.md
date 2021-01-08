@@ -20,9 +20,11 @@ Sarah A Gagliano Taliun, PhD
 #### Postdoctoral research fellows: 
 
 #### PhD students:
+Qiang Ye (January 2021 - )
 
 #### Masters students:
 
 #### Short-term research students:
+Hester Faou (January 2021 - )
 
 ### Past Members 
