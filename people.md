@@ -23,6 +23,6 @@ Qiang Ye (January 2021 - )
 
 #### UdeM Bioinformatics Masters interns:
 Oumaima Hamza (May 2021 - Oct 2021)
-Hester Faou (January 2021 - July 2021)
+<p>Hester Faou (January 2021 - July 2021)<\p>
 
 ### Past Members 
