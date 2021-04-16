@@ -18,12 +18,11 @@ Sarah A Gagliano Taliun, PhD
 
 #### Postdoctoral research fellows: 
 
-#### PhD students:
+#### UdeM Bioinformatics PhD students:
 Qiang Ye (January 2021 - )
 
-#### Masters students:
-
-#### Short-term research students:
-Hester Faou (January 2021 - )
+#### UdeM Bioinformatics Masters interns:
+Oumaima Hamza (May 2021 - Oct 2021)
+Hester Faou (January 2021 - July 2021)
 
 ### Past Members 
