@@ -26,4 +26,4 @@ Oumaima Hamza (May 2021 - Oct 2021)
 <p>Hester Faou (January 2021 - July 2021)
 
 <hr>
-### Past Members 
+Past Members:  
