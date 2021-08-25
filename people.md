@@ -31,3 +31,4 @@ Yangfan Zhao (June 2021 - August 2021)
 
 <hr>
 Past Members:  
+<p>Hester Faou (January 2021 - July 2021- UdeM Bioinformatics Masters intern)</p>
