@@ -24,11 +24,10 @@ Qiang Ye (January 2021 - )
 
 #### UdeM Bioinformatics Masters interns:
 Oumaima Hamza (May 2021 - Oct 2021)
-<p>Hester Faou (January 2021 - July 2021)</p>
 
 #### UdeM Undergraduate research students:
 Yangfan Zhao (June 2021 - August 2021)
 
 <hr>
-Past Members:  
+#### Past Members:  
 <p>Hester Faou (January 2021 - July 2021- UdeM Bioinformatics Masters intern)</p>
