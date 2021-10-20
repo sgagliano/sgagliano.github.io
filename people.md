@@ -17,7 +17,8 @@ Send inquiries to sarah <i>dot</i> gagliano <i>at</i> icm-mhi <i>dot</i> org
 Sarah A Gagliano Taliun
 
 #### Postdoctoral research fellows: 
-Muhammad Shoaib (June 2021 - )
+Frida Lona Durazo (Nov 2021 - )
+<p>Muhammad Shoaib (June 2021 - )</p>
 
 #### UdeM Bioinformatics PhD students:
 Qiang Ye (January 2021 - )
