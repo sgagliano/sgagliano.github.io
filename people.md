@@ -23,12 +23,10 @@ Frida Lona Durazo (Nov 2021 - )
 #### UdeM Bioinformatics PhD students:
 Qiang Ye (January 2021 - )
 
-#### UdeM Bioinformatics Masters interns:
-Oumaima Hamza (May 2021 - Oct 2021)
-
-#### UdeM Undergraduate research students:
-Yangfan Zhao (June 2021 - August 2021)
+#### UdeM research students:
+Yangfan Zhao (June 2021 - )
 
 -------
 #### Past Members:  
 Hester Faou (January 2021 - July 2021- UdeM Bioinformatics Masters intern)
+<p>Oumaima Hamza (May 2021 - Oct 2021- UdeM Bioinformatics Masters intern)</p>
