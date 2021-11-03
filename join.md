@@ -3,7 +3,7 @@ layout: page
 title: Join! 
 ---
 
-### Position Openings! **Starting FALL 2021, WINTER 2022 or SUMMER 2022**
+### Position Openings! **Starting SUMMER 2022, FALL 2023**
 
 #### <b>Come join us in Montréal!</b>
 We are seeking highly-motivated graduate students and postdoctoral research fellows to join our computational lab located at the Montréal Heart Institute affiliated with the Université de Montréal (UdeM).
