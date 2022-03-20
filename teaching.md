@@ -3,9 +3,14 @@ layout: page
 title: Teaching 
 ---
 
-### Teaching Summary
+### Teaching Summary/L'enseigenement
 As researchers, I believe it is our responsibility to transmit our's and others' research to the broader community.
-I take this responsibility to heart, and I really enjoy teaching to a wide-range of indivduals, and I challenge myself to meet their diverse skillsets. Here are selected examples, I: 
+I take this responsibility to heart, and I really enjoy teaching to a wide-range of indivduals, and I challenge myself to meet their diverse skillsets. 
+
+Je crois qu'il est la responsabilité des chercheurs et chercheueuses de transmettre nos recherches et celles des autres à l'ensemble de la communauté.
+Je prends cette responsabilité à cœur, et j'aime vraiment enseigner à un large éventail de personnes, et je me mets au défi de répondre à leurs diverses compétences.
+
+Here are selected examples, I: 
 * guest-lectured for genetics-related courses at the Université de Montéal
 * volunteered as a mentor for <b>high school students</b> through the Ontario Online Research Co-op program, 
 * supervised a group of <b>undergraduate students</b> in the six-week Big Data Summer Institute at the University of Michigan, and
@@ -13,9 +18,9 @@ I take this responsibility to heart, and I really enjoy teaching to a wide-range
 
 For more details, please refer to my <a href="{{site.baseurl}}/public/GaglianoTaliun_CV.pdf"> CV.</a>
 
-### Writing
+### Writing/l'Écriture
 
-In addition to <a href="{{site.url}}/research"> research</a> and teaching, I like to make time for my other passion: passing on information through writing. I enjoy writing about scientific and non-scientific topics.
+In addition to <a href="{{site.url}}/research"> research</a> and teaching, I like to make time for my other passion: passing on information through writing. I enjoy writing about scientific and non-scientific topics. / En plus de la <a href="{{site.url}}/research">recherche</a> et de l'enseignement, j'aime consacrer du temps à mon autre passion : transmettre l'information par l'écriture. J'aime écrire sur des sujets scientifiques et non scientifiques.
 
 Gagliano Taliun, S.A. <a href="https://rdcu.be/bTC7V">Teaching at the university level is not a hassle.</a> _Nature_ 574, 285 (2019). PMID: 31591538
 
