@@ -7,7 +7,7 @@ title: Teaching
 As researchers, I believe it is our responsibility to transmit our's and others' research to the broader community.
 I take this responsibility to heart, and I really enjoy teaching to a wide-range of indivduals, and I challenge myself to meet their diverse skillsets. 
 
-Je crois qu'il est la responsabilité des chercheurs et chercheueuses de transmettre nos recherches et celles des autres à l'ensemble de la communauté.
+Je crois qu'il est la responsabilité des chercheurs et chercheuses de transmettre nos recherches et celles des autres à l'ensemble de la communauté.
 Je prends cette responsabilité à cœur, et j'aime vraiment enseigner à un large éventail de personnes, et je me mets au défi de répondre à leurs diverses compétences.
 
 Here are selected examples, I: 
