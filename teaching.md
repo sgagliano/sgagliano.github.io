@@ -3,7 +3,7 @@ layout: page
 title: Teaching 
 ---
 
-### Teaching Summary/L'enseigenement
+### Teaching/L'enseigenement
 As researchers, I believe it is our responsibility to transmit our's and others' research to the broader community.
 I take this responsibility to heart, and I really enjoy teaching to a wide-range of indivduals, and I challenge myself to meet their diverse skillsets. 
 
@@ -11,10 +11,9 @@ Je crois qu'il est la responsabilité des chercheurs et chercheuses de transmett
 Je prends cette responsabilité à cœur, et j'aime vraiment enseigner à un large éventail de personnes, et je me mets au défi de répondre à leurs diverses compétences.
 
 Here are selected examples, I: 
-* guest-lectured for genetics-related courses at the Université de Montéal
+* guest-lectured or co-instructed genetics-related <b>graduate-level</b> human genetics courses at the Université de Montéal and University of Michigan
 * volunteered as a mentor for <b>high school students</b> through the Ontario Online Research Co-op program, 
 * supervised a group of <b>undergraduate students</b> in the six-week Big Data Summer Institute at the University of Michigan, and
-* co-instructed <b>graduate-level</b> human genetics courses at the University of Michigan
 
 For more details, please refer to my <a href="{{site.baseurl}}/public/GaglianoTaliun_CV.pdf"> CV.</a>
 
