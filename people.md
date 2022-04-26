@@ -21,7 +21,7 @@ Frida Lona Durazo (11/2021 - )
 <p>Muhammad Shoaib (06/2021 - )</p>
 
 #### UdeM Bioinformatics students/UdeM étudiants et étudiantes en bio-informatique
-Wiame Belbellaj, MSc candidate (08/2022 - )
+Wiame Belbellaj, MSc candidate (05/2022 - )
 <p>Qiang Ye, PhD candidate (01/2021 - )</p>
 
 #### UdeM medicine undergraduate research students/UdeM étudiants et étudiantes au premier cycle en médecine
