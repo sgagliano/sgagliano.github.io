@@ -26,3 +26,5 @@ Gagliano Taliun, S.A. <a href="https://rdcu.be/bTC7V">Teaching at the university
 Gagliano Taliun, S.A. <a href="https://academicmatters.ca/how-to-navigate-academia-as-a-female-who-is-the-first-in-her-family-with-a-phd/">How to navigate academia as a female who is the first in her family with a PhD.</a> _Academic Matters_ 27 Aug 2020.
 
 Gagliano Taliun, S.A. <a href="https://www.nature.com/articles/d41586-021-00917-z">One scientist couple’s five suggestions to solve the 'two body problem'.</a> _Nature_ (2021). PMID: 33824533
+
+Gagliano Taliun, S.A. <a href="https://www.nature.com/articles/d41586-022-01715-x">Science communication with a French twist.</a> _Nature_ (2022). PMID: 35725825
