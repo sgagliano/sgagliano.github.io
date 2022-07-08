@@ -18,7 +18,7 @@ Send inquiries to/contactez sarah <i>dot</i> gagliano <i>at</i> icm-mhi <i>dot</
 ### Using bioinformatics and computational genetics approaches to understand the links between cardiovascular and neurological health- M.Sc./Ph.D/PostDoc 
 
 <b>Project description</b> 
-<p>The group of Dr. Gagliano Taliun uses state-of-the-art computational and bioinformatics approaches, including machine-learning techniques, to understand the genetic factors contributing to complex traits and common diseases in humans, specifically cardiovascular or neurological diseases. </p> 
+<p>The group of Dr. Gagliano Taliun uses state-of-the-art computational and bioinformatics approaches, including machine-learning techniques and sex-specific Mendelian randomization, to understand the genetic factors contributing to complex traits and common diseases in humans, specifically cardiovascular or neurological diseases. </p> 
 
 <b>Requested profile</b>
 <p>•	Ambitious and highly motivated</p> 
@@ -29,7 +29,7 @@ Send inquiries to/contactez sarah <i>dot</i> gagliano <i>at</i> icm-mhi <i>dot</
 ### L'emploi des approches bio-informatiques et génomiques computationnelles pour mieux comprendre les liens entre la santé cardiovasculaire et neurologique– M.Sc./Ph.D/PostDoc 
 
 <b>Description du projet</b> 
-<p>Le groupe de la Dre. Gagliano Taliun utilise des approches computationnelles et bio-informatiques à la fine pointe de la technologie, y compris des modèles d’apprentissage machine, pour comprendre des facteurs génétiques qui contribuent aux traits complexes et aux maladies courantes chez les êtres humains, notamment les maladies cardiovasculaires ou neurologiques. </p> 
+<p>Le groupe de la Dre. Gagliano Taliun utilise des approches computationnelles et bio-informatiques à la fine pointe de la technologie, y compris des modèles d’apprentissage automatique et les analyses de randomisation Mendélienne stratifié par sexe, pour comprendre des facteurs génétiques qui contribuent aux traits complexes et aux maladies courantes chez les êtres humains, notamment les maladies cardiovasculaires ou neurologiques. </p> 
 
 <b>Profil demandé</b> 
 <p>•	Ambitieux et très motivé</p> 
