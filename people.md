@@ -25,10 +25,12 @@ Wiame Belbellaj, MSc candidate (05/2022 - )
 <p>Qiang Ye, PhD candidate (01/2021 - )</p>
 
 #### UdeM medicine undergraduate research students/UdeM étudiants et étudiantes au premier cycle en médecine
-Melody Zuo (05/2022 - 08/2022)
-<p>Yangfan Zhao (06/2021 - )</p>
+Nikita Neale (05/2023 - 08/2023)
 
 -------
 #### Alumni  
-Hester Faou (01/2021 - 07/2021- UdeM Bioinformatics Masters intern)
-<p>Oumaima Hamza (05/2021 - 10/2021- UdeM Bioinformatics Masters intern)</p>
+Melody Zuo (05/2022 - 08/2022- UdeM research student/UdeM étudiante au premier cycle en médecine)
+<p>Yangfan Zhao (06/2021 - 08/2022- UdeM research student/UdeM étudiante au premier cycle en médecine)</p>
+<p>Oumaima Hamza (05/2021 - 10/2021- UdeM Bioinformatics Masters intern/UdeM stagaire MSc en bio-informatique)</p>
+<p>Hester Faou (01/2021 - 07/2021- UdeM Bioinformatics Masters intern/UdeM stagaire MSc en bio-informatique)</p>
+
