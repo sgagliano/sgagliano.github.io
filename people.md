@@ -31,6 +31,6 @@ Nikita Neale (05/2023 - 08/2023)
 #### Alumni  
 Melody Zuo (05/2022 - 08/2022- UdeM research student/UdeM étudiante au premier cycle en médecine)
 <p>Yangfan Zhao (06/2021 - 08/2022- UdeM research student/UdeM étudiante au premier cycle en médecine)</p>
-<p>Oumaima Hamza (05/2021 - 10/2021- UdeM Bioinformatics Masters intern/UdeM stagaire MSc en bio-informatique)</p>
-<p>Hester Faou (01/2021 - 07/2021- UdeM Bioinformatics Masters intern/UdeM stagaire MSc en bio-informatique)</p>
+<p>Oumaima Hamza (05/2021 - 10/2021- UdeM Bioinformatics Masters intern/UdeM stagiaire MSc en bio-informatique)</p>
+<p>Hester Faou (01/2021 - 07/2021- UdeM Bioinformatics Masters intern/UdeM stagiaire MSc en bio-informatique)</p>
 
