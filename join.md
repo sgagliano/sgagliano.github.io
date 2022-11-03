@@ -15,7 +15,9 @@ Send inquiries to/contactez sarah <i>dot</i> gagliano <i>at</i> icm-mhi <i>dot</
 
 <i>Le français suit.</i>
 
-### Using bioinformatics and computational genetics approaches to understand the links between cardiovascular and neurological health- M.Sc./Ph.D/PostDoc 
+### Project 1: Using bioinformatics and computational genetics approaches to understand the links between cardiovascular and neurological health- M.Sc./Ph.D/PostDoc 
+
+### Project 2: Sex-specific computational genetic approaches to better understand neurodegenerative diseases - M.Sc./Ph.D/PostDoc 
 
 <b>Project description</b> 
 <p>The group of Dr. Gagliano Taliun uses state-of-the-art computational and bioinformatics approaches, including machine-learning techniques and sex-specific Mendelian randomization, to understand the genetic factors contributing to complex traits and common diseases in humans, specifically cardiovascular or neurological diseases. </p> 
@@ -26,7 +28,9 @@ Send inquiries to/contactez sarah <i>dot</i> gagliano <i>at</i> icm-mhi <i>dot</
 <p>•	Strong background and interest in genetics</p>
 <p>•	Excellent oral and written communication skills (English and French)</p>
 
-### L'emploi des approches bio-informatiques et génomiques computationnelles pour mieux comprendre les liens entre la santé cardiovasculaire et neurologique– M.Sc./Ph.D/PostDoc 
+### Projet 1 : L'emploi des approches bio-informatiques et génomiques computationnelles pour mieux comprendre les liens entre la santé cardiovasculaire et neurologique– M.Sc./Ph.D/PostDoc 
+
+### Projet 2 : L'emploi des approches génomiques computationnalles pour mieux comprendre les maladies neurodénégeratives– M.Sc./Ph.D/PostDoc  
 
 <b>Description du projet</b> 
 <p>Le groupe de la Dre. Gagliano Taliun utilise des approches computationnelles et bio-informatiques à la fine pointe de la technologie, y compris des modèles d’apprentissage automatique et les analyses de randomisation Mendélienne stratifié par sexe, pour comprendre des facteurs génétiques qui contribuent aux traits complexes et aux maladies courantes chez les êtres humains, notamment les maladies cardiovasculaires ou neurologiques. </p> 
