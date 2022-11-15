@@ -28,7 +28,7 @@ Send inquiries to/contactez sarah <i>dot</i> gagliano <i>at</i> icm-mhi <i>dot</
 <p>•	Strong background and interest in genetics</p>
 <p>•	Excellent oral and written communication skills (English and French)</p>
 
-### Projet 1 : L'emploi des approches bio-informatiques et génomiques computationnelles pour mieux comprendre les liens entre la santé cardiovasculaire et neurologique– M.Sc./Ph.D/PostDoc 
+### Projet 1 : L'emploi des approches bio-informatiques et génomiques computationnelles qui sont spécifique aux sexe pour mieux comprendre les liens entre la santé cardiovasculaire et neurologique– M.Sc./Ph.D/PostDoc 
 
 ### Projet 2 : L'emploi des approches génomiques computationnalles pour mieux comprendre les maladies neurodénégeratives– M.Sc./Ph.D/PostDoc  
 
