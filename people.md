@@ -18,7 +18,7 @@ Sarah A Gagliano Taliun
 
 #### Postdoctoral research fellows/Chercheurs et chercheuses postdoctoral(e)s
 Frida Lona Durazo (11/2021 - )
-<p>Muhammad Shoaib (06/2021 - )</p>
+<p>Muhammad Shoaib (06/2021 - 11/2022)</p>
 
 #### UdeM Bioinformatics students/UdeM étudiants et étudiantes en bio-informatique
 Wiame Belbellaj, MSc candidate (05/2022 - )
