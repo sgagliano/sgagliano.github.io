@@ -18,7 +18,6 @@ Sarah A Gagliano Taliun
 
 #### Postdoctoral research fellows/Chercheurs et chercheuses postdoctoral(e)s
 Frida Lona Durazo (11/2021 - )
-<p>Muhammad Shoaib (06/2021 - 11/2022)</p>
 
 #### UdeM Bioinformatics students/UdeM étudiants et étudiantes en bio-informatique
 Wiame Belbellaj, MSc candidate (05/2022 - )
@@ -29,7 +28,8 @@ Nikita Neale (05/2023 - 08/2023)
 
 -------
 #### Alumni  
-Melody Zuo (05/2022 - 08/2022- UdeM research student/UdeM étudiante au premier cycle en médecine)
+<p>Muhammad Shoaib (06/2021 - 11/2022- Postdoctoral research fellow/Chercheur postdoctoral)</p>
+<p>Melody Zuo (05/2022 - 08/2022- UdeM research student/UdeM étudiante au premier cycle en médecine)</p>
 <p>Yangfan Zhao (06/2021 - 08/2022- UdeM research student/UdeM étudiante au premier cycle en médecine)</p>
 <p>Oumaima Hamza (05/2021 - 10/2021- UdeM Bioinformatics Masters intern/UdeM stagiaire MSc en bio-informatique)</p>
 <p>Hester Faou (01/2021 - 07/2021- UdeM Bioinformatics Masters intern/UdeM stagiaire MSc en bio-informatique)</p>
