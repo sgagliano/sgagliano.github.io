@@ -3,7 +3,7 @@ layout: page
 title: Teaching 
 ---
 
-### Teaching/L'enseigenement
+### Teaching/L'Enseigenement
 As researchers, I believe it is our responsibility to transmit our's and others' research to the broader community.
 I take this responsibility to heart, and I really enjoy teaching to a wide-range of indivduals, and I challenge myself to meet their diverse skillsets. 
 
