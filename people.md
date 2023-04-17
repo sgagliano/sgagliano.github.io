@@ -20,11 +20,14 @@ Sarah A Gagliano Taliun
 Frida Lona Durazo (11/2021 - )
 
 #### UdeM Bioinformatics students/UdeM étudiants et étudiantes en bio-informatique
-Wiame Belbellaj, MSc candidate (05/2022 - )
+Linda Wang, MSc candidate (09/2023 - )
+</p>Justin Bellavance, MSc candidate (09/2023 - )</p>
+<p>Wiame Belbellaj, MSc candidate (05/2022 - )</p>
 <p>Qiang Ye, PhD candidate (01/2021 - )</p>
 
 #### UdeM medicine undergraduate research students/UdeM étudiants et étudiantes au premier cycle en médecine
-Nikita Neale (05/2023 - 08/2023)
+Rime Diany (06/2023 - 08/2023)
+Nikita Neale (06/2023 - 08/2023)
 
 -------
 #### Alumni  
