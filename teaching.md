@@ -15,7 +15,8 @@ Here are selected examples, I:
 * volunteered as a mentor for <b>high school students</b> through the Ontario Online Research Co-op program, 
 * supervised a group of <b>undergraduate students</b> in the six-week Big Data Summer Institute at the University of Michigan, and
 
-For more details, please refer to my <a href="{{site.baseurl}}/public/GaglianoTaliun_CV.pdf"> CV.</a>
+For more details, please refer to my <a href="{{site.baseurl}}/public/GaglianoTaliun_CV.pdf"> CV.</a> 
+Les détails se trouvent dans mon <a href="{{site.baseurl}}/public/GaglianoTaliun_CV.pdf"> CV.</a>
 
 ### Writing/l'Écriture
 
