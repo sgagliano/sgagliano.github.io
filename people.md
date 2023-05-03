@@ -29,7 +29,7 @@ Linda Wang, MSc candidate (09/2023 - )
 Rime Diany (06/2023 - 08/2023)
 <p>Nikita Neale (06/2023 - 08/2023)</p>
 
-### CÉGEP interns/stagiaires
+#### CÉGEP interns/stagiaires
 Rayen Amrani (04-2023 - 05/2023)
 
 -------
