@@ -29,6 +29,9 @@ Linda Wang, MSc candidate (09/2023 - )
 Rime Diany (06/2023 - 08/2023)
 <p>Nikita Neale (06/2023 - 08/2023)</p>
 
+### CÉGEP interns/stagiaires
+Rayen Amrani (04-2023 - 05/2023)
+
 -------
 #### Alumni  
 <p>Muhammad Shoaib (06/2021 - 11/2022- Postdoctoral research fellow/Chercheur postdoctoral)</p>
