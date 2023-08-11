@@ -25,15 +25,11 @@ Linda Wang, MSc candidate (09/2023 - )
 <p>Wiame Belbellaj, MSc candidate (05/2022 - )</p>
 <p>Qiang Ye, PhD candidate (01/2021 - )</p>
 
-#### UdeM medicine undergraduate research students/UdeM étudiants et étudiantes au premier cycle en médecine
-Rime Diany (06/2023 - 08/2023)
-<p>Nikita Neale (06/2023 - 08/2023)</p>
-
-#### CÉGEP interns/stagiaires
-Rayen Amrani (04-2023 - 05/2023)
-
 -------
 #### Alumni  
+<p>Rime Diany (06/2023 - 08/2023- UdeM research student/UdeM étudiante au premier cycle en médecine)</p>
+<p>Nikita Neale (06/2023 - 08/2023- UdeM research student/UdeM étudiante au premier cycle en médecine)</p>
+<p>Rayen Amrani (04-2023 - 05/2023- CÉGEP intern/stagiaire)</p>
 <p>Muhammad Shoaib (06/2021 - 11/2022- Postdoctoral research fellow/Chercheur postdoctoral)</p>
 <p>Melody Zuo (05/2022 - 08/2022- UdeM research student/UdeM étudiante au premier cycle en médecine)</p>
 <p>Yangfan Zhao (06/2021 - 08/2022- UdeM research student/UdeM étudiante au premier cycle en médecine)</p>
