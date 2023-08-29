@@ -21,4 +21,4 @@ Quelques intérêts de recherche de notre laboratoire sont de :
 
 <hr>
 ### Publications ###
-Please see [Google Scholar](https://scholar.google.com/citations?user=2cd0NZoAAAAJ&hl=en&oi=ao)
+[Google Scholar](https://scholar.google.com/citations?user=2cd0NZoAAAAJ&hl=en&oi=ao)
