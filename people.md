@@ -28,21 +28,20 @@ Frida Lona Durazo (11/2021 - )
 <p>Qiang Ye, PhD candidate (01/2021 - )</p>
 
 
-#### Research interns in Medicine/Stagiaires en médecine
-<p>Rime Diany (06/2024 - 08/2024)</p>
-<p>Lyza Maameri (06/2024 - 08/2024; Université Laval)</p>
-<p>Nikita Neale (06/2024 - 08/2024)</p>
+#### UdeM Bioinformatics MSc intern/UdeM stagiaire MSc en bio-informatique
+<p>Sadaf Gawhary (09/2024 - 02/2025)</p>
 
 
 -------
 #### Alumni  
-<p>Wiame Belbellaj, MSc candidate (05/2022 - 05/2024)</p>
-<p>Rime Diany (06/2023 - 12/2023- UdeM research intern in Medicine/UdeM stagiaire en médecine)</p>
-<p>Nikita Neale (06/2023 - 12/2023- UdeM research intern/UdeM stagiaire en médecine)</p>
+<p>Lyza Maameri (06/2024 - 08/2024- Université Laval research intern/Université Laval stagiaire en médécine)</p>
+<p>Wiame Belbellaj, MSc candidate (05/2022 - 06/2024)</p>
+<p>Rime Diany (06/2023 - 12/2023 & 06/2024 - 08/2024- UdeM research intern in Medicine/UdeM stagiaire en médecine)</p>
+<p>Nikita Neale (06/2023 - 12/2023 & 06/2024 - 08/2024- UdeM research intern/UdeM stagiaire en médecine)</p>
 <p>Rayen Amrani (04-2023 - 05/2023- CÉGEP intern/stagiaire)</p>
 <p>Muhammad Shoaib (06/2021 - 11/2022- Postdoctoral research fellow/Chercheur postdoctoral)</p>
 <p>Melody Zuo (05/2022 - 08/2022- UdeM research intern/UdeM stagiaire en médécine)</p>
 <p>Yangfan Zhao (06/2021 - 08/2022- UdeM research intern/UdeM stagiaire en médécine)</p>
-<p>Oumaima Hamza (05/2021 - 10/2021- UdeM Bioinformatics Masters intern/UdeM stagiaire MSc en bio-informatique)</p>
-<p>Hester Faou (01/2021 - 07/2021- UdeM Bioinformatics Masters intern/UdeM stagiaire MSc en bio-informatique)</p>
+<p>Oumaima Hamza (05/2021 - 10/2021- UdeM Bioinformatics MSc intern/UdeM stagiaire MSc en bio-informatique)</p>
+<p>Hester Faou (01/2021 - 07/2021- UdeM Bioinformatics MSc intern/UdeM stagiaire MSc en bio-informatique)</p>
 
