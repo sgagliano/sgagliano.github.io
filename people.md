@@ -25,8 +25,6 @@ Frida Lona Durazo (11/2021 - )
 #### Université de Montréal (UdeM) Bioinformatics students/UdeM étudiants et étudiantes en bio-informatique
 <p>Justin Bellavance, MSc candidate (09/2023 - )</p>
 <p>Linda Wang, MSc candidate (09/2023 - )</p>
-<p>Qiang Ye, PhD candidate (01/2021 - )</p>
-
 
 #### UdeM Bioinformatics MSc intern/UdeM stagiaire MSc en bio-informatique
 <p>Sadaf Gawhary (09/2024 - 02/2025)</p>
@@ -36,6 +34,7 @@ Frida Lona Durazo (11/2021 - )
 #### Alumni  
 <p>Lyza Maameri (06/2024 - 08/2024- Université Laval research intern/Université Laval stagiaire en médécine)</p>
 <p>Wiame Belbellaj, MSc candidate (05/2022 - 06/2024)</p>
+<p>Qiang Ye, PhD candidate (01/2021 - 08/2023)</p>
 <p>Rime Diany (06/2023 - 12/2023 & 06/2024 - 08/2024- UdeM research intern in Medicine/UdeM stagiaire en médecine)</p>
 <p>Nikita Neale (06/2023 - 12/2023 & 06/2024 - 08/2024- UdeM research intern/UdeM stagiaire en médecine)</p>
 <p>Rayen Amrani (04-2023 - 05/2023- CÉGEP intern/stagiaire)</p>
