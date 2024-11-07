@@ -39,7 +39,7 @@ Frida Lona Durazo (11/2021 - )
 <p>Nikita Neale (06/2023 - 12/2023 & 06/2024 - 08/2024- UdeM research intern/UdeM stagiaire en médecine)</p>
 <p>Rayen Amrani (04-2023 - 05/2023- CÉGEP intern/stagiaire)</p>
 <p>Muhammad Shoaib (06/2021 - 11/2022- Postdoctoral research fellow/Chercheur postdoctoral)</p>
-<p>Melody Zuo (05/2022 - 08/2022- UdeM research intern/UdeM stagiaire en médécine)</p>
+<p>Melody Zuo (05/2022 - 08/2022 & 09/2024 - 12/2024)- UdeM research intern/UdeM stagiaire en médécine)</p>
 <p>Yangfan Zhao (06/2021 - 08/2022- UdeM research intern/UdeM stagiaire en médécine)</p>
 <p>Oumaima Hamza (05/2021 - 10/2021- UdeM Bioinformatics MSc intern/UdeM stagiaire MSc en bio-informatique)</p>
 <p>Hester Faou (01/2021 - 07/2021- UdeM Bioinformatics MSc intern/UdeM stagiaire MSc en bio-informatique)</p>
