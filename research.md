@@ -4,7 +4,7 @@ title: Research
 ---
 
 ### Research Summary
-Our reserach program the goal of applying computational tools to investigate the impact of biological systems on aging using genetic data, including sex stratified analyses
+Our research program the goal of applying computational tools to investigate the impact of biological systems on aging using genetic data, including sex stratified analyses
 
 Some of our lab's research interests are to: 
 <p>(1) identify and better <b>understand genetic contributors for complex traits</b> to help detect targets for more effective treatment options, <b>particularly for disorders affecting the brain-heart axis</b>, and</p>
