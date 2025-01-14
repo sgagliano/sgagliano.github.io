@@ -29,6 +29,9 @@ Frida Lona Durazo (11/2021 - )
 #### UdeM Bioinformatics MSc intern/UdeM stagiaire MSc en bio-informatique
 <p>Sadaf Gawhary (09/2024 - 02/2025)</p>
 
+#### UdeM Bioinformatics BSc intern/UdeM stagiaire BSc en bio-informatique
+<p>Rimma Pyatkovskaya (09/2024 - 04/2025)</p>
+
 
 -------
 #### Alumni  
