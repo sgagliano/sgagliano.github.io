@@ -9,18 +9,16 @@ title: People
 #### Position Openings! <b>Come join us in Montréal!/Venez nous rejoindre à Montréal!</b> 
 We are seeking highly-motivated graduate students and postdoctoral research fellows to join our computational genetics lab located at the Montréal Heart Institute/Institut de Cardiologie de Montréal affiliated with the Université de Montréal (UdeM).
 
-Contact sarah <i>dot</i> gagliano <i>at</i> icm-mhi <i>dot</i> org
+Contact sarah <i>dot</i> gagliano-taliun <i>at</i> umontreal.ca <i>dot</i> ca
 
 
 ### Current Members/Membres actuels
 #### Principal investigator/Investigatrice principale
 Sarah A Gagliano Taliun
 
-
 #### Postdoctoral research fellows/Chercheurs et chercheuses postdoctoral(e)s
 Frida Lona Durazo (11/2021 - )
 <p>Le Chang (09/2024 - )</p>
-
 
 #### Université de Montréal (UdeM) Bioinformatics students/UdeM étudiants et étudiantes en bio-informatique
 <p>Justin Bellavance, MSc candidate (09/2023 - )</p>
@@ -29,8 +27,10 @@ Frida Lona Durazo (11/2021 - )
 #### UdeM Bioinformatics MSc intern/UdeM stagiaire MSc en bio-informatique
 <p>Sadaf Gawhary (09/2024 - 02/2025)</p>
 
-#### UdeM Bioinformatics BSc intern/UdeM stagiaire BSc en bio-informatique
-<p>Rimma Pyatkovskaya (09/2024 - 04/2025)</p>
+#### UdeM Bioinformatics BSc interns/UdeM stagiaires BSc en bio-informatique
+<p>Rimma Pyatkovskaya (09/2024 - 07/2025)</p>
+<p>Jordan Boulais-Richard (05/2025 - 07/2025)</p>
+<p>Léonie Forest (05/2025 - 07/2025)</p>
 
 
 -------
