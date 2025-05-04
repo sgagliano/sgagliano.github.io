@@ -24,25 +24,26 @@ Frida Lona Durazo (11/2021 - )
 <p>Justin Bellavance, MSc candidate (09/2023 - )</p>
 <p>Linda Wang, MSc candidate (09/2023 - )</p>
 
-#### UdeM Bioinformatics MSc intern/UdeM stagiaire MSc en bio-informatique
-<p>Sadaf Gawhary (09/2024 - 02/2025)</p>
+#### UdeM research intern/UdeM stagiaire en médécine
+<p>Melody Zuo (05/2024 - 08/2025)</p>
 
 #### UdeM Bioinformatics BSc interns/UdeM stagiaires BSc en bio-informatique
 <p>Rimma Pyatkovskaya (09/2024 - 07/2025)</p>
 <p>Jordan Boulais-Richard (05/2025 - 07/2025)</p>
 <p>Léonie Forest (05/2025 - 07/2025)</p>
-
+<p>Daphnée Duong (05/2025 - 07/2025)</p>
 
 -------
 #### Alumni  
+<p>Sadaf Gawhary (09/2024 - 02/2025- UdeM Bioinformatics MSc intern/UdeM stagiaire MSc en bio-informatique)</p>
 <p>Lyza Maameri (06/2024 - 08/2024- Université Laval research intern/Université Laval stagiaire en médécine)</p>
-<p>Wiame Belbellaj, MSc candidate (05/2022 - 06/2024)</p>
-<p>Qiang Ye, PhD candidate (01/2021 - 08/2023)</p>
+<p>Wiame Belbellaj (05/2022 - 06/2024- MSc candidate, Bioinformatics/Bio-informatique)</p>
+<p>Qiang Ye- (01/2021 - 08/2023- PhD candidate, Bioinformatics/Bio-informatique)</p>
 <p>Rime Diany (06/2023 - 12/2023 & 06/2024 - 08/2024- UdeM research intern in Medicine/UdeM stagiaire en médecine)</p>
 <p>Nikita Neale (06/2023 - 12/2023 & 06/2024 - 08/2024- UdeM research intern/UdeM stagiaire en médecine)</p>
 <p>Rayen Amrani (04-2023 - 05/2023- CÉGEP intern/stagiaire)</p>
 <p>Muhammad Shoaib (06/2021 - 11/2022- Postdoctoral research fellow/Chercheur postdoctoral)</p>
-<p>Melody Zuo (05/2022 - 08/2022 & 09/2024 - 12/2024)- UdeM research intern/UdeM stagiaire en médécine)</p>
+<p>Melody Zuo (05/2022 - 08/2022 & 09/2024 - 12/2024 & 05/2025 - 08/2025- UdeM research intern/UdeM stagiaire en médécine)</p>
 <p>Yangfan Zhao (06/2021 - 08/2022- UdeM research intern/UdeM stagiaire en médécine)</p>
 <p>Oumaima Hamza (05/2021 - 10/2021- UdeM Bioinformatics MSc intern/UdeM stagiaire MSc en bio-informatique)</p>
 <p>Hester Faou (01/2021 - 07/2021- UdeM Bioinformatics MSc intern/UdeM stagiaire MSc en bio-informatique)</p>
