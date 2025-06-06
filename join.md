@@ -3,7 +3,7 @@ layout: page
 title: Join! 
 ---
 
-### Position Openings! **Starting Fall 2025 or Winter 2026/À partir de l'automne 2025 ou l'hiver 2026**
+### Position Openings! **Starting Winter 2026/À partir de l'hiver 2026**
 
 #### <b>Come join us in Montréal! Faites partie de notre groupe de recherche à Montréal! </b>
 We are seeking highly-motivated graduate students and postdoctoral research fellows to join our computational lab located at the Montréal Heart Institute affiliated with the Université de Montréal (UdeM).
