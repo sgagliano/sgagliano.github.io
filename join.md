@@ -15,9 +15,11 @@ Send inquiries to/contactez sarah <i>dot</i> gagliano <i>at</i> icm-mhi <i>dot</
 
 <i>Le français suit.</i>
 
-### Project 1: Sex-specific bioinformatics and computational genetics approaches to better understand neurodegenerative diseases - M.Sc./Ph.D/PostDoc 
+### Project 1: Sex-specific bioinformatics and computational genetics approaches to better understand neurodegenerative diseases - M.Sc./Ph.D 
 
 ### Project 2: Development of interactive visualization tools of genome-wide association results - M.Sc./Ph.D 
+
+### Project 3: Computational investigation of genetic variation on chromosome X - M.Sc./Ph.D 
 
 <b>Project description</b> 
 <p>The group of Dr. Gagliano Taliun uses state-of-the-art computational and bioinformatics approaches, including machine-learning techniques and sex-specific Mendelian randomization, to understand the genetic factors contributing to complex traits and common diseases in humans, specifically neurological diseases. </p> 
@@ -31,6 +33,8 @@ Send inquiries to/contactez sarah <i>dot</i> gagliano <i>at</i> icm-mhi <i>dot</
 ### Projet 1 : L'emploi des approches bio-informatiques et génomiques computationnelles pour mieux comprendre les maladies neurodénégeratives – M.Sc./Ph.D/PostDoc  
 
 ### Projet 2 : Le développement des outils interactifs pour visualiser les résultats provenant des études d'association pan-génomique - M.Sc./Ph.D
+
+### Projet 3: L'investigation computationnelle des variations génétiques sur le chromosome X - M.Sc./Ph.D
 
 <b>Description du projet</b> 
 <p>Le groupe de la Dre. Gagliano Taliun utilise des approches computationnelles et bio-informatiques à la fine pointe de la technologie, y compris des modèles d’apprentissage automatique et les analyses de randomisation Mendélienne stratifié par sexe, pour comprendre des facteurs génétiques qui contribuent aux traits complexes et aux maladies courantes chez les êtres humains, notamment les maladies neurologiques. </p> 
