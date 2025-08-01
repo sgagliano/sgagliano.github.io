@@ -9,7 +9,7 @@ title: Join!
 We are seeking highly-motivated graduate students and postdoctoral research fellows to join our computational lab located at the Montréal Heart Institute affiliated with the Université de Montréal (UdeM).
 Knowledge of both English and French is an asset./ Excellentes aptitudes à la communication en anglais et en français est un atout.
 
-Send inquiries to/contactez sarah <i>dot</i> gagliano <i>at</i> icm-mhi <i>dot</i> org
+Send inquiries to/contactez sarah <i>dot</i> gagliano-taliun <i>at</i> umontreal <i>dot</i> ca
 
 - - - - - 
 
