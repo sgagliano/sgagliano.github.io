@@ -21,3 +21,5 @@ Notre infographie sur les contributeurs génétiques de est disponible sur <a hr
 Gagliano Taliun, S.A. & Evans, D. <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009238">Ten simple rules for conducting a mendelian randomization study.</a> _PLoS Computational Biology_ (2021). PMID: 34383747
 
 Bellavance, J., Wang, L. & Gagliano Taliun, S.A. <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012160">Eight quick tips for including chromosome X in genome-wide association studies.</a> _PLoS Computational Biology_ (2024). PMID: 38843110
+
+Diany, R., Fitzgibbon-Collins, L.K. & Gagliano Taliun, S.A. <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012888">Ten simple rules for getting started with knowledge mobilization.</a> _PLoS Computational Biology_ (2024). PMID: 40184421
