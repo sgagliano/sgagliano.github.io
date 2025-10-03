@@ -23,7 +23,7 @@ Frida Lona Durazo, PhD (11/2021 - )
 #### Université de Montréal (UdeM) Bioinformatics students/UdeM étudiants et étudiantes en bio-informatique
 <p>Jordan Boulais-Richard (05/2025 - 12/2025- UdeM Bioinformatics BSc intern/UdeM stagiaire BSc en bio-informatique)</p>
 <p>Aurélie Abraham (09/2025 - 12/2025- UdeM Bioinformatics BSc intern/UdeM stagiaire BSc en bio-informatique)</p>
-<p>Youcef Boutarene (09/2025 - 03/2025)- UdeM Bioinformatics MSc intern/UdeM stagiaire MSc en bio-informatique</p>
+<p>Youcef Boutarene (09/2025 - 03/2025- UdeM Bioinformatics MSc intern/UdeM stagiaire MSc en bio-informatique)</p>
 
 -------
 #### Alumni  
