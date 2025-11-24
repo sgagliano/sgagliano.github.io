@@ -4,7 +4,7 @@ title: Research
 ---
 
 ### Research Summary
-Our research program the goal of applying computational tools to investigate the impact of biological systems on aging using genetic data, including sex stratified analyses
+Our research program the goal of applying computational tools to investigate the impact of biological systems on aging using genetic data, including sex stratified analyses.
 
 Some of our lab's research interests are to: 
 <p>(1) identify and better <b>understand genetic contributors for complex traits of aging</b> to help detect targets for more effective treatment options, and</p>
@@ -12,7 +12,7 @@ Some of our lab's research interests are to:
 <p>We tackle these problems from a biological perspective using statistical and computational tools. Both arms of research use rich sets of “big data” in silico, and involve cross-disciplinary collaborative efforts across genomic, epigenomic, and health datasets. This work will increase knowledge on the genetic aetiology of complex traits to allow for earlier and better diagnoses, and the potential to support personalized treatments and novel therapies.</p> 
 
 ### Nos recherches
-Notre programme de recherche a pour l'objectif d'utiliser les approches computationnelles pour investiguer l’impact des systèmes biologiques sur le vieillissement en utilisant les données génétiques, y compris les analyses stratifiées par le sexe
+Notre programme de recherche a pour l'objectif d'utiliser les approches computationnelles pour investiguer l’impact des systèmes biologiques sur le vieillissement en utilisant les données génétiques, y compris les analyses stratifiées par le sexe.
 
 Quelques intérêts de recherche de notre laboratoire sont de :
 <p>(1) identifier et mieux <b>comprendre les contributeurs génétiques qui influencent les traits complexes du vieillissement</b> afin d'aider à détecter les cibles pour des options de traitement plus efficaces, et </p>
