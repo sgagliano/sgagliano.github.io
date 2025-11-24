@@ -3,11 +3,11 @@ layout: page
 title: Join! 
 ---
 
-### Position Openings! **Starting Winter 2026/À partir de l'hiver 2026**
+### Position Openings! **Starting Winter 2027/À partir de l'hiver 2027**
 
 #### <b>Come join us in Montréal! Faites partie de notre groupe de recherche à Montréal! </b>
-We are seeking highly-motivated graduate students and postdoctoral research fellows to join our computational lab located at the Montréal Heart Institute affiliated with the Université de Montréal (UdeM).
-Knowledge of both English and French is an asset./ Excellentes aptitudes à la communication en anglais et en français est un atout.
+We are seeking highly-motivated trainees to join our computational lab located at the Montréal Heart Institute affiliated with the Université de Montréal (UdeM).
+Knowledge of English and French is an asset./ Excellentes aptitudes à la communication en anglais et en français est un atout.
 
 Send inquiries to/contactez sarah <i>dot</i> gagliano-taliun <i>at</i> umontreal <i>dot</i> ca
 
@@ -15,7 +15,7 @@ Send inquiries to/contactez sarah <i>dot</i> gagliano-taliun <i>at</i> umontreal
 
 <i>Le français suit.</i>
 
-### Project 1: Sex-specific bioinformatics and computational genetics approaches to better understand neurodegenerative diseases - M.Sc./Ph.D 
+### Project 1: Sex-specific bioinformatics and computational genetics approaches to better understand complex diseases of aging - M.Sc./Ph.D 
 
 ### Project 2: Development of interactive visualization tools of genome-wide association results - M.Sc./Ph.D 
 
@@ -30,7 +30,7 @@ Send inquiries to/contactez sarah <i>dot</i> gagliano-taliun <i>at</i> umontreal
 <p>•	Strong background and interest in genetics</p>
 <p>•	Excellent oral and written communication skills (English and/or French)</p>
 
-### Projet 1 : L'emploi des approches bio-informatiques et génomiques computationnelles pour mieux comprendre les maladies neurodénégeratives – M.Sc./Ph.D/PostDoc  
+### Projet 1 : L'emploi des approches bio-informatiques et génomiques computationnelles pour mieux comprendre les maladies complexes du vieillissement – M.Sc./Ph.D  
 
 ### Projet 2 : Le développement des outils interactifs pour visualiser les résultats provenant des études d'association pan-génomique - M.Sc./Ph.D
 
