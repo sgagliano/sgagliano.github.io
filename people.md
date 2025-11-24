@@ -9,14 +9,14 @@ title: People
 #### Position Openings! <b>Come join us in Montréal!/Venez nous rejoindre à Montréal!</b> 
 We are seeking highly-motivated graduate students and postdoctoral research fellows to join our computational genetics lab located at the Montréal Heart Institute/Institut de Cardiologie de Montréal affiliated with the Université de Montréal (UdeM).
 
-Contact sarah <i>dot</i> gagliano-taliun <i>at</i> umontreal.ca <i>dot</i> ca
+Contact sarah <i>dot</i> gagliano-taliun <i>at</i> umontreal <i>dot</i> ca
 
 
 ### Current Members/Membres actuels
 #### Principal investigator/Investigatrice principale
 Sarah A Gagliano Taliun, PhD
 
-#### Personnel
+#### Staff/Personnel
 Frida Lona Durazo, PhD (01/2026 - )
 
 #### Postdoctoral research fellows/Chercheurs et chercheuses postdoctoral(e)s
