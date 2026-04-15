@@ -26,18 +26,22 @@ Frida Lona Durazo, PhD (01/2026 - )
 <p>Jordan Boulais-Richard (01/2026 - UdeM MSc candidate, Bioinformatics/Bio-informatique)</p>
 <p>Rimma Pyatkovskaya (01/2026 - UdeM MSc candidate, Bioinformatics/Bio-informatique)</p>
 
+### UdeM interns / UdeM Stagiaires
+<p>Daphnée Duong (05/2026 - 07/2026- UdeM Biostatistics MSc intern/UdeM stagiaire MSc en bio-statistique)</p>
+<p>Fatima Barry (05/2025 - 11/2026- UdeM Bioinformatics MSc intern/UdeM stagiaire MSc en bio-informatique)</p>
+
 -------
 #### Alumni  
 <p>Yousra Bennaceur (01/2026 - 03/2026- UdeM Bioinformatics BSc intern/UdeM stagiaire BSc en bio-informatique)</p>
 <p>Youcef Boutarene (09/2025 - 03/2026- UdeM Bioinformatics MSc intern/UdeM stagiaire MSc en bio-informatique)</p>
 <p>Aurélie Abraham (09/2025 - 12/2025- UdeM Bioinformatics BSc intern/UdeM stagiaire BSc en bio-informatique)</p>
 <p>Jordan Boulais-Richard (05/2025 - 12/2025- UdeM Bioinformatics BSc intern/UdeM stagiaire BSc en bio-informatique)</p>
-<p>Frida Lona Durazo, PhD (11/2021 - 12/2025 - Postdoctoral research fellow/Chercheuse postdoctorale)</p>
+<p>Frida Lona Durazo, PhD (11/2021 - 12/2025- Postdoctoral research fellow/Chercheuse postdoctorale)</p>
 <p>Justin Bellavance (09/2023 - 08/2025- UdeM MSc candidate, Bioinformatics/Bio-informatique)</p>
 <p>Linda Wang (09/2023 - 08/2025- UdeM MSc candidate, Bioinformatics/Bio-informatique)</p>
 <p>Rimma Pyatkovskaya (09/2024 - 08/2025- UdeM Biochemistry BSc intern/UdeM stagiaire BSc en biochimie)</p>
 <p>Léonie Forest (05/2025 - 08/2025- UdeM Bioinformatics BSc intern/UdeM stagiaire BSc en bio-informatique)</p>
-<p>Daphnée Duong (05/2025 - 08/2025- UdeM Biostatistics MSc intern/UdeM stagiaire MSc en bio-statistique)</p>
+<p>Daphnée Duong (05/2025 - 08/2025 & 05/2026 - 07/2026- UdeM Biostatistics MSc intern/UdeM stagiaire MSc en bio-statistique)</p>
 <p>Sadaf Gawhary (09/2024 - 02/2025- UdeM Bioinformatics MSc intern/UdeM stagiaire MSc en bio-informatique)</p>
 <p>Lyza Maameri (06/2024 - 08/2024- Université Laval research intern/Université Laval stagiaire en médécine)</p>
 <p>Wiame Belbellaj (05/2022 - 06/2024- MSc candidate, Bioinformatics/Bio-informatique)</p>
