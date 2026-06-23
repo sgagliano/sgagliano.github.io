@@ -25,13 +25,14 @@ Frida Lona Durazo, PhD (01/2026 - )
 #### Université de Montréal (UdeM) Bioinformatics students/UdeM étudiants et étudiantes en bio-informatique
 <p>Jordan Boulais-Richard (01/2026 - UdeM MSc candidate, Bioinformatics/Bio-informatique)</p>
 <p>Rimma Pyatkovskaya (01/2026 - UdeM MSc candidate, Bioinformatics/Bio-informatique)</p>
+<p>Yassine El Fakhouri(09/2026 - UdeM MSc candidate, Bioinformatics/Bio-informatique)</p>
 
 ### UdeM interns / UdeM Stagiaires
-<p>Daphnée Duong (05/2026 - 07/2026- UdeM Biostatistics MSc intern/UdeM stagiaire MSc en bio-statistique)</p>
 <p>Fatima Barry (05/2025 - 11/2026- UdeM Bioinformatics MSc intern/UdeM stagiaire MSc en bio-informatique)</p>
 
 -------
 #### Alumni  
+<p>Yekaterina Bakhanstova (06/2026 - 07/2026- UdeM research intern/UdeM stagiaire en médecine)</p>
 <p>Yousra Bennaceur (01/2026 - 03/2026- UdeM Bioinformatics BSc intern/UdeM stagiaire BSc en bio-informatique)</p>
 <p>Youcef Boutarene (09/2025 - 03/2026- UdeM Bioinformatics MSc intern/UdeM stagiaire MSc en bio-informatique)</p>
 <p>Aurélie Abraham (09/2025 - 12/2025- UdeM Bioinformatics BSc intern/UdeM stagiaire BSc en bio-informatique)</p>
