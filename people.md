@@ -16,7 +16,7 @@ Contact sarah <i>dot</i> gagliano-taliun <i>at</i> umontreal <i>dot</i> ca
 #### Principal investigator/Investigatrice principale
 Sarah A Gagliano Taliun, PhD
 
-#### Staff/Personnel
+#### Research staff/Personnel de recherche
 Frida Lona Durazo, PhD (01/2026 - )
 
 #### Postdoctoral research fellows/Chercheurs et chercheuses postdoctoral(e)s
@@ -26,9 +26,11 @@ Frida Lona Durazo, PhD (01/2026 - )
 <p>Jordan Boulais-Richard (01/2026 - UdeM MSc candidate, Bioinformatics/Bio-informatique)</p>
 <p>Rimma Pyatkovskaya (01/2026 - UdeM MSc candidate, Bioinformatics/Bio-informatique)</p>
 <p>Yassine El Fakhouri (09/2026 - UdeM MSc candidate, Bioinformatics/Bio-informatique)</p>
+<p>Luca Day (09/2026 - UdeM MSc candidate, Bioinformatics/Bio-informatique)</p>
 
 ### UdeM interns / UdeM Stagiaires
 <p>Fatima Barry (05/2025 - 11/2026- UdeM Bioinformatics MSc intern/UdeM stagiaire MSc en bio-informatique)</p>
+<p>Sara Gair (09/2026 - 03/2027- UdeM Bioinformatics MSc intern/UdeM stagiaire MSc en bio-informatique)</p>
 
 -------
 #### Alumni  
