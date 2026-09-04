@@ -34,7 +34,7 @@ Frida Lona Durazo, PhD (01/2026 - )
 
 -------
 #### Alumni  
-<p>Yekaterina Bakhanstova (06/2026 - 07/2026- UdeM research intern/UdeM stagiaire en médecine)</p>
+<p>Yekaterina Bakhanstova (06/2026 - 08/2026- UdeM research intern/UdeM stagiaire en médecine)</p>
 <p>Yousra Bennaceur (01/2026 - 03/2026- UdeM Bioinformatics BSc intern/UdeM stagiaire BSc en bio-informatique)</p>
 <p>Youcef Boutarene (09/2025 - 03/2026- UdeM Bioinformatics MSc intern/UdeM stagiaire MSc en bio-informatique)</p>
 <p>Aurélie Abraham (09/2025 - 12/2025- UdeM Bioinformatics BSc intern/UdeM stagiaire BSc en bio-informatique)</p>
