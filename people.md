@@ -29,11 +29,11 @@ Frida Lona Durazo, PhD (01/2026 - )
 <p>Luca Day (09/2026 - UdeM MSc candidate, Bioinformatics/Bio-informatique)</p>
 
 ### UdeM interns / UdeM Stagiaires
-<p>Fatima Barry (05/2025 - 11/2026- UdeM Bioinformatics MSc intern/UdeM stagiaire MSc en bio-informatique)</p>
 <p>Sara Gair (09/2026 - 03/2027- UdeM Bioinformatics MSc intern/UdeM stagiaire MSc en bio-informatique)</p>
 
 -------
 #### Alumni  
+<p>Fatima Barry (05/2025 - 11/2026- UdeM Bioinformatics MSc intern/UdeM stagiaire MSc en bio-informatique)</p>
 <p>Yekaterina Bakhanstova (06/2026 - 08/2026- UdeM research intern/UdeM stagiaire en médecine)</p>
 <p>Yousra Bennaceur (01/2026 - 03/2026- UdeM Bioinformatics BSc intern/UdeM stagiaire BSc en bio-informatique)</p>
 <p>Youcef Boutarene (09/2025 - 03/2026- UdeM Bioinformatics MSc intern/UdeM stagiaire MSc en bio-informatique)</p>
